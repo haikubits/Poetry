@@ -1,9 +1,6 @@
-In night's embrace, the moon does crown,
-
-The feline's watch, in shadows drown.
-
+In night's embrace, the moon does crown,<br>
+The feline's watch, in shadows drown.<br>
 A tapestry of silver light,
-
 The tree's arms cradle the night.
 
 
